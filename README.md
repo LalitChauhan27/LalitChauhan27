@@ -1,16 +1,18 @@
-# Hi, I am Lalit! Great to see you here! <img src="https://raw.githubusercontent.com/LalitChauhan27/LalitChauhan27/main/src/wave.gif" width="30px" height="30px">
+## Hi, I am Lalit! Great to see you here! <img src="https://raw.githubusercontent.com/LalitChauhan27/LalitChauhan27/main/src/wave.gif" width="30px" height="30px">
 
-I am [Lalit Chauhan](https://lalitchauhan27.github.io/), currently pursuing my B.Tech degree in Computer Science & Engineering from Maharshi Dayanand University. I am a tech enthusiast & an open-source contributor. I am always ready to have new experiences and learn new things. Find out more about me & feel free to connect with me here:
+I am [Lalit Chauhan](https://lalitchauhan27.github.io/), a MERN Stack Developer. I am a tech enthusiast & an open-source contributor. I am always ready to have new experiences and learn new things. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lalitchauhan277/)](https://www.linkedin.com/in/lalitchauhan277/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/lalitchauhantwt)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/gautamchauhansig/)](https://instagram.com/gautamchauhansig)
+[![Gmail Badge](https://img.shields.io/badge/-chauhangautam277@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chauhangautam277@gmail.com)](mailto:chauhangautam277@gmail.com)
+[![Portfolio Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=BioLink&logoColor=white&link=https://lalitchauhan.bio.link//)](https://lalitchauhan.bio.link/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/lalitchauhantwt)
 
-[![Lalit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=lalitchauhan27&theme=xcode)](https://github.com/lalitchauhan27)
+[![Lalit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lalitchauhan27&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ⚡ Technologies
 
-### Language
+### Language :
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
@@ -19,8 +21,9 @@ I am [Lalit Chauhan](https://lalitchauhan27.github.io/), currently pursuing my B
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
-### Libraries & Framework
+### Libraries & Framework :
 
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org/)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
@@ -34,15 +37,8 @@ I am [Lalit Chauhan](https://lalitchauhan27.github.io/), currently pursuing my B
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 ## 📈 Stats
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=lalitchauhan27&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lalitchauhan27&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</td>
-</tr>
-</table>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalitchauhan27&theme=tokyonight" />
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lalitchauhan27&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lalitchauhan27&theme=tokyonight" />
 </p>
