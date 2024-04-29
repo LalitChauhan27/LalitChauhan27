@@ -2,6 +2,7 @@
 
 I am [Lalit Chauhan](https://lalitchauhan27.github.io/), a MERN Stack Developer. I am a tech enthusiast & an open-source contributor. I am always ready to have new experiences and learn new things. Find out more about me & feel free to connect with me here:
 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/lalitchauhan)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lalitchauhan277/)](https://www.linkedin.com/in/lalitchauhan277/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/gautamchauhansig/)](https://instagram.com/gautamchauhansig)
 [![Gmail Badge](https://img.shields.io/badge/-chauhangautam277@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chauhangautam277@gmail.com)](mailto:chauhangautam277@gmail.com)
